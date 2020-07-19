@@ -8,3 +8,6 @@ This site was built using [GitHub Pages](https://www.vprACTICE.PK/)
 git status
 git log
 ~~~
+- [x] Finish my changes
+- [x] Push my commits to GitHub
+- [ ] Open a pull request
